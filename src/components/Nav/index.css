@@ -1,0 +1,17 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.home_btn{
+    margin:10px
+}
+.logout-btn{
+    background-color: green;
+    border-width: 0px;
+    margin-right: 10px;
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    margin-top: 5px;
+}
